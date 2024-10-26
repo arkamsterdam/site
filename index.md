@@ -1,6 +1,8 @@
 # Wie zijn we en waar staan we voor?
 
-Biologische tuingroep de Ark ligt in de Tuinen van West in Amsterdam Nieuw-West. Er zijn 38
+Biologische tuingroep de Ark ligt in de
+[Tuinen van West in Amsterdam Nieuw-West](https://www.google.com/maps/place/Nico+Broekhuysenweg+7,+1067+HT+Amsterdam).
+Er zijn 38
 moestuintjes, variërend in grootte tussen de 50 en 150 m<sup>2</sup>. We verbouwen groente, fruit en eetbare
 bloemen op biologische wijze, we gebruiken dus geen kunstmest of pesticiden. We houden rekening
 met alles wat leeft in onze tuin. Zo kun je wilde bijen, vogels, salamanders, regenwormen en andere
