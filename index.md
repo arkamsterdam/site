@@ -7,7 +7,9 @@ moestuintjes, variërend in grootte tussen de 50 en 150 m<sup>2</sup>. We verbou
 bloemen op biologische wijze, we gebruiken dus geen kunstmest of pesticiden. We houden rekening
 met alles wat leeft in onze tuin. Zo kun je wilde bijen, vogels, salamanders, regenwormen en andere
 bodemdiertjes tegenkomen. We eten dus niet alleen lekkere en gezonde groente en fruit uit onze
-tuin, maar creëren ook een paradijs voor flora en fauna.
+tuin, maar creëren ook een [paradijs voor flora en fauna](fotos).
+
+![overichtsfoto van de tuinen](assets/images/overzicht.jpg "de tuinen")
 
 # Wat betekent het om een moestuin te verzorgen?
 

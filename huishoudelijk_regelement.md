@@ -81,8 +81,7 @@ materialen te gebruiken. Vraag jezelf steeds af of plastic nodig is. Gebruik van
 plasticsoorten 1, 3, 6 en 7 wordt sterk afgeraden. Advies: gieters categorie 5 en potten en
 zaaitrays categorie 2, 4 of 5.
 
-# Artikel 4. Risicoteelt: aardappels, overige nachtschade-planten
-(tomaat, paprika enz.) en koolsoorten
+# Artikel 4. Risicoteelt: aardappels, overige nachtschade-planten (tomaat, paprika enz.) en koolsoorten
 
 a) Elke tuinder stopt jaarlijks voor 15 april een wisselteeltplan onder het eigen tuinnummer in
 de map in de schuur. Daarop zijn de teeltplaatsen getekend van aardappels, nachtschade,

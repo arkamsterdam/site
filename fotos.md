@@ -1,0 +1,6 @@
+![verbena en bij](assets/images/verbena en bij.jpg "verbena en bij")
+![fruitoogst](assets/images/bessen.jpg "fruitoogst")
+![goudsbloem](assets/images/goudsbloem.jpg "goudsbloem")
+![groenteoogst](assets/images/groenteoogst.jpg "groenteoogst")
+![snijbiet](assets/images/snijbiet.jpg "snijbiet")
+![tomaten](assets/images/tomaten.jpg "tomaten")
