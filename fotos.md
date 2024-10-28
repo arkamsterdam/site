@@ -5,6 +5,7 @@
 ![snijbiet](assets/images/snijbiet.jpg "snijbiet")
 ![tomaten](assets/images/tomaten.jpg "tomaten")
 ![rups](assets/images/rups.jps "rups")
+![zonnebloemen](assets/images/zonnebloemen.jpg "zonnebloemen")
 ![amfibie](assets/images/amfibie.jpg "amfibie")
 ![zwarte bes](assets/images/zwarte bes.jpg "zwarte bes")
 ![bloemen](assets/images/bloemen.jpg "bloemen")
