@@ -58,16 +58,22 @@ id = ""
     weight     = 40
 
 [[menu.main]]
-    name       = "Berichten"
-    identifier = "menu.blog"
-    url        = "/berichten/"
+    name       = "werkdagen"
+    identifier = "menu.werkdagen"
+    url        = "/werkdagen"
     weight     = 50
 
 [[menu.main]]
-    identifier = ""
+    name       = "Berichten"
+    identifier = "menu.blog"
+    url        = "/blog/"
+    weight     = 60
+
+[[menu.main]]
+    identifier = "menu.contact"
     name       = "Contact"
     url        = "//"
-    weight     = 60
+    weight     = 70
 
 
 # Top bar social links menu

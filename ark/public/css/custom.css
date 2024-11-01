@@ -1,6 +1,10 @@
 /* your styles go here */
 /* Example site test */
 
+body, #navbar {
+  background-color: rgb(244,255,244);
+}
+
 img {
   max-width: 100%;
   height: auto;
