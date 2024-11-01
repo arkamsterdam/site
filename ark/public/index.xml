@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>biologische tuingroep De Ark</title>
-    <link>http://localhost:1313/hugo-universal-theme/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on biologische tuingroep De Ark</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Oct 2024 21:29:20 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-universal-theme/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>mooi weer op werkdag</title>
-      <link>http://localhost:1313/hugo-universal-theme/berichten/werkdag_2024-10-27/</link>
+      <link>http://localhost:1313/berichten/werkdag_2024-10-27/</link>
       <pubDate>Mon, 28 Oct 2024 21:29:20 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-universal-theme/berichten/werkdag_2024-10-27/</guid>
+      <guid>http://localhost:1313/berichten/werkdag_2024-10-27/</guid>
       <description>&lt;h3 id=&#34;werkdag-27-oktober&#34;&gt;werkdag 27 oktober&lt;/h3&gt;&#xA;&lt;p&gt;De werkdag van 27 oktober was een groot succes, mede door het mooie weer. Er waren weel vrijwilligers om te klussen. Er is hard gewerkt en het terrein ligt er weer mooi bij..&lt;/p&gt;</description>
     </item>
     <item>
       <title>Categories Post</title>
-      <link>http://localhost:1313/hugo-universal-theme/berichten/categories-post/</link>
+      <link>http://localhost:1313/berichten/categories-post/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/hugo-universal-theme/berichten/categories-post/</guid>
+      <guid>http://localhost:1313/berichten/categories-post/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a post with multiple categories in the frontmatter:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo is for lovers</title>
-      <link>http://localhost:1313/hugo-universal-theme/berichten/hugo-is-for-lovers/</link>
+      <link>http://localhost:1313/berichten/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      <guid>http://localhost:1313/hugo-universal-theme/berichten/hugo-is-for-lovers/</guid>
-      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;http://localhost:1313/hugo-universal-theme/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
+      <guid>http://localhost:1313/berichten/hugo-is-for-lovers/</guid>
+      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;http://localhost:1313/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/hugo-universal-theme/fotos/</link>
+      <link>http://localhost:1313/fotos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-universal-theme/fotos/</guid>
-      <description>&lt;p&gt;![verbena en bij](assets/images/verbena en bij.jpg &amp;ldquo;verbena en bij&amp;rdquo;)&#xA;&lt;img src=&#34;assets/images/bessen.jpg&#34; alt=&#34;fruitoogst&#34; title=&#34;fruitoogst&#34;&gt;&#xA;&lt;img src=&#34;assets/images/goudsbloem.jpg&#34; alt=&#34;goudsbloem&#34; title=&#34;goudsbloem&#34;&gt;&#xA;&lt;img src=&#34;assets/images/groenteoogst.jpg&#34; alt=&#34;groenteoogst&#34; title=&#34;groenteoogst&#34;&gt;&#xA;&lt;img src=&#34;assets/images/snijbiet.jpg&#34; alt=&#34;snijbiet&#34; title=&#34;snijbiet&#34;&gt;&#xA;&lt;img src=&#34;assets/images/tomaten.jpg&#34; alt=&#34;tomaten&#34; title=&#34;tomaten&#34;&gt;&#xA;&lt;img src=&#34;assets/images/rups.jps&#34; alt=&#34;rups&#34; title=&#34;rups&#34;&gt;&#xA;&lt;img src=&#34;assets/images/zonnebloemen.jpg&#34; alt=&#34;zonnebloemen&#34; title=&#34;zonnebloemen&#34;&gt;&#xA;&lt;img src=&#34;assets/images/amfibie.jpg&#34; alt=&#34;amfibie&#34; title=&#34;amfibie&#34;&gt;&#xA;![zwarte bes](assets/images/zwarte bes.jpg &amp;ldquo;zwarte bes&amp;rdquo;)&#xA;&lt;img src=&#34;assets/images/bloemen.jpg&#34; alt=&#34;bloemen&#34; title=&#34;bloemen&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fotos/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/verbena%20en%20bij.jpg&#34; alt=&#34;verbena en bij&#34; title=&#34;verbena en bij&#34;&gt;&#xA;![fruitoogst](&amp;lt;/img/bessen.jpg &amp;ldquo;fruitoogst&amp;rdquo;)&#xA;&lt;img src=&#34;http://localhost:1313/img/goudsbloem.jpg&#34; alt=&#34;goudsbloem&#34; title=&#34;goudsbloem&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/img/groenteoogst.jpg&#34; alt=&#34;groenteoogst&#34; title=&#34;groenteoogst&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/img/snijbiet.jpg&#34; alt=&#34;snijbiet&#34; title=&#34;snijbiet&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/img/tomaten.jpg&#34; alt=&#34;tomaten&#34; title=&#34;tomaten&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/img/rups.jps&#34; alt=&#34;rups&#34; title=&#34;rups&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/img/zonnebloemen.jpg&#34; alt=&#34;zonnebloemen&#34; title=&#34;zonnebloemen&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/img/amfibie.jpg&#34; alt=&#34;amfibie&#34; title=&#34;amfibie&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/img/zwarte%20bes.jpg&#34; alt=&#34;zwarte bes&#34; title=&#34;zwarte bes&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/img/bloemen.jpg&#34; alt=&#34;bloemen&#34; title=&#34;bloemen&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/hugo-universal-theme/huishoudelijk_reglement/</link>
+      <link>http://localhost:1313/huishoudelijk_reglement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-universal-theme/huishoudelijk_reglement/</guid>
+      <guid>http://localhost:1313/huishoudelijk_reglement/</guid>
       <description>&lt;h3 id=&#34;huishoudelijk-reglement-biologische-tuingroep-de-ark---2024&#34;&gt;Huishoudelijk Reglement Biologische Tuingroep De Ark - 2024&lt;/h3&gt;&#xA;&lt;p&gt;De Tuingroep de Ark is een nutstuin voor teelt van groente, fruit, kruiden&#xA;en plukbloemen. Op de Ark wordt uitsluitend biologisch getuinierd.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/hugo-universal-theme/over-de-ark/</link>
+      <link>http://localhost:1313/over-de-ark/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-universal-theme/over-de-ark/</guid>
+      <guid>http://localhost:1313/over-de-ark/</guid>
       <description>&lt;h1 id=&#34;wie-zijn-we-en-waar-staan-we-voor&#34;&gt;Wie zijn we en waar staan we voor?&lt;/h1&gt;&#xA;&lt;p&gt;Biologische tuingroep de Ark ligt in de&#xA;&lt;a href=&#34;https://www.google.com/maps/place/Nico+Broekhuysenweg+7,+1067+HT+Amsterdam&#34;&gt;Tuinen van West in Amsterdam Nieuw-West&lt;/a&gt;.&#xA;Er zijn 38&#xA;moestuintjes, variërend in grootte tussen de 50 en 150 m&lt;!-- raw HTML omitted --&gt;2&lt;!-- raw HTML omitted --&gt;. We verbouwen groente, fruit en eetbare&#xA;bloemen op biologische wijze, we gebruiken dus geen kunstmest of pesticiden. We houden rekening&#xA;met alles wat leeft in onze tuin. Zo kun je wilde bijen, vogels, salamanders, regenwormen en andere&#xA;bodemdiertjes tegenkomen. We eten dus niet alleen lekkere en gezonde groente en fruit uit onze&#xA;tuin, maar creëren ook een &lt;a href=&#34;../fotos&#34;&gt;paradijs voor flora en fauna&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/hugo-universal-theme/werkdagen/</link>
+      <link>http://localhost:1313/werkdagen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-universal-theme/werkdagen/</guid>
-      <description>&lt;h1 id=&#34;werkdagen-2025&#34;&gt;werkdagen 2025&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;zaterdag 28 september 11:00 - 14:00&lt;/li&gt;&#xA;&lt;li&gt;zondag 27 oktober 11:00 - 14:00&lt;/li&gt;&#xA;&lt;li&gt;zaterdag 23 november 11:00 - 14:00&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/hugo-universal-theme/img/slootwerk.jpg&#34; alt=&#34;slootwerk tijdens een van de werkdagen&#34; title=&#34;de sloten bijhouden&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/werkdagen/</guid>
+      <description>&lt;h1 id=&#34;werkdagen-2025&#34;&gt;werkdagen 2025&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;zaterdag 28 september 11:00 - 14:00&lt;/li&gt;&#xA;&lt;li&gt;zondag 27 oktober 11:00 - 14:00&lt;/li&gt;&#xA;&lt;li&gt;zaterdag 23 november 11:00 - 14:00&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/slootwerk.jpg&#34; alt=&#34;slootwerk tijdens een van de werkdagen&#34; title=&#34;de sloten bijhouden&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/hugo-universal-theme/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-universal-theme/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;h1 id=&#34;we-are-here-to-help-you&#34;&gt;We are here to help you&lt;/h1&gt;&#xA;&lt;p&gt;Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>FAQ</title>
-      <link>http://localhost:1313/hugo-universal-theme/faq/</link>
+      <link>http://localhost:1313/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-universal-theme/faq/</guid>
+      <guid>http://localhost:1313/faq/</guid>
       <description>&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;</description>
     </item>
   </channel>

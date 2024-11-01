@@ -1,4 +1,4 @@
-baseurl = "https://evcows.github.io/hugo-universal-theme/"
+baseurl = "https://localhost/"
 title = "biologische tuingroep De Ark"
 theme = "hugo-universal-theme"
 style = "green"

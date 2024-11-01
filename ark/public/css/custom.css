@@ -1,6 +1,13 @@
 /* your styles go here */
 /* Example site test */
 
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 2em 0 2em 0;
+}
+
 .box-image-text .image {
     min-height: 190px;
     max-height: 190px;

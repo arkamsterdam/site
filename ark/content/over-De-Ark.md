@@ -9,7 +9,7 @@ met alles wat leeft in onze tuin. Zo kun je wilde bijen, vogels, salamanders, re
 bodemdiertjes tegenkomen. We eten dus niet alleen lekkere en gezonde groente en fruit uit onze
 tuin, maar creëren ook een [paradijs voor flora en fauna](../fotos).
 
-![overichtsfoto van de tuinen](../img/overzicht.jpg "de tuinen")
+![overichtsfoto van de tuinen](<../img/overzicht.jpg> "de tuinen")
 
 # Wat betekent het om een moestuin te verzorgen?
 

@@ -4,5 +4,5 @@
 - zondag 27 oktober 11:00 - 14:00
 - zaterdag 23 november 11:00 - 14:00
 
-![slootwerk tijdens een van de werkdagen](/img/slootwerk.jpg "de sloten bijhouden")
+![slootwerk tijdens een van de werkdagen](</img/slootwerk.jpg> "de sloten bijhouden")
 
