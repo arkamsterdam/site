@@ -54,8 +54,9 @@ h) Wisselteelt van aardappels, nachtschade (tomaten, paprika etc), kolen en alli
 knoflook, prei) is verplicht.
 
 i) Bomen:
--Alleen vruchtbomen zijn toegestaan, met een maximale hoogte van 2.5 meter.
--Per 50 m<sup>2</sup> is 1 boom toegestaan. Bomen mogen geen overlast geven wat betreft lichtbeperking
+
+- Alleen vruchtbomen zijn toegestaan, met een maximale hoogte van 2.5 meter.
+- Per 50 m<sup>2</sup> is 1 boom toegestaan. Bomen mogen geen overlast geven wat betreft lichtbeperking
 en bladafval.
 
 j) Maximaal 15 % van de totale tuinoppervlakte mag worden gebruikt voor een zitterras en
