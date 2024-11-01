@@ -1,4 +1,4 @@
-remote-theme: mchrisrhymes/bulma-clean-theme 
+remote-theme: jekyll-theme-minimal 
 plugins:
   - jekyll-remote-theme
 title: Biologische tuingroep De Ark
