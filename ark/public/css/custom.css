@@ -5,10 +5,6 @@
   --background-color: #f2fff2;
 }
 
-.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
-   margin-left: -120px;
-}
-
 .navbar-brand h4 {
   font-size: 26px;
 }
