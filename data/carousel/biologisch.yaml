@@ -1,0 +1,10 @@
+weight: 1
+title: "biologisch eten"
+description: >
+  <ul class="list-style-none">
+    <li>lekker en gezond</li>
+    <li>goed voor het milieu</li>
+    <li>goed voor jou</li>
+  </ul>
+image: "img/groenteoogst.jpg"
+#href: "https://devcows.github.io/hugo-universal-theme/"
