@@ -1,13 +1,13 @@
 /* Themed colors */
 :root {
-  --primary-accent: #38a7bb;
-  --navbar-border-top: #20616d;
-  --button-border: #2a7d8c;
-  --link-focus: #267280;
-  --form-shadow: rgba(56, 167, 187, 0.6);
-  --pagination-bg: #a7dbe5;
-  --link-hover-bg: #2c8494;
-  --navbar-focus: #80cbd9;
+  --primary-accent: #6aae7a;
+  --navbar-border-top: #3f734b;
+  --button-border: #4d8e5c;
+  --link-focus: #488456;
+  --form-shadow: rgba(106, 174, 122, 0.6);
+  --pagination-bg: #cde4d2;
+  --link-hover-bg: #519461;
+  --navbar-focus: #acd2b5;
 }
 
 .clearfix:before,
@@ -1741,7 +1741,7 @@ fieldset[disabled] .btn-template-primary.active {
   border: none;
 }
 #heading-breadcrumbs {
-  background: url('../img/texture-bw.png') center center repeat;
+  background: url('../img/texture-green.png') center center repeat;
   padding: 20px 0;
   margin-bottom: 40px;
 }
@@ -1770,7 +1770,7 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 60px 0;
 }
 .bar.background-pentagon {
-  background: url('../img/texture-bw.png') center center repeat;
+  background: url('../img/texture-green.png') center center repeat;
   border-top: solid 1px #999999;
   border-bottom: solid 1px #999999;
 }

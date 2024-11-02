@@ -36,7 +36,7 @@ id = ""
 [[menu.main]]
     name       = "over De Ark"
     identifier = "menu.over_de_ark"
-    url        = "/over-De-Ark"
+    url        = "/over-De-Ark/"
     weight     = 20
 
 #[[menu.main]]
@@ -48,19 +48,19 @@ id = ""
 [[menu.main]]
     name       = "foto's"
     identifier = "menu.fotos"
-    url        = "/fotos"
+    url        = "/fotos/"
     weight     = 30
 
 [[menu.main]]
     name       = "huishoudelijk reglement"
     identifier = "menu.reglement"
-    url        = "/huishoudelijk_reglement"
+    url        = "/huishoudelijk_reglement/"
     weight     = 40
 
 [[menu.main]]
     name       = "werkdagen"
     identifier = "menu.werkdagen"
-    url        = "/werkdagen"
+    url        = "/werkdagen/"
     weight     = 50
 
 [[menu.main]]
@@ -71,8 +71,8 @@ id = ""
 
 [[menu.main]]
     identifier = "menu.contact"
-    name       = "Contact"
-    url        = "//"
+    name       = "contact"
+    url        = "/contact/"
     weight     = 70
 
 
@@ -121,8 +121,8 @@ id = ""
     default_sharing_image = "img/sharing-default.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
-    enableGoogleMaps = true
-    googleMapsApiKey = "AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY"
+    enableGoogleMaps = false
+    googleMapsApiKey = "AIzaSyDXuVVsD6lkI_UJkTuFLjPq1QDbkT9eSpc"
 
     latitude = "-12.043333"
     longitude = "-77.028333"
@@ -177,7 +177,7 @@ id = ""
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
-    _url = "/contact"
+    _url = "/"
     address = """<p class="text-uppercase"><strong>tuingroep De Ark</strong>
         <br>Nico Broekhuysenweg 7
         <br>1067 HT&nbsp;&nbsp;Amsterdam
@@ -210,7 +210,7 @@ id = ""
     pagination_speed = 1000
 
 [params.carouselTestimonials]
-    items = 4
+    items = 4 
     auto_play = false
     slide_speed = 2000
     pagination_speed = 1000

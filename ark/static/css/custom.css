@@ -1,8 +1,28 @@
 /* your styles go here */
 /* Example site test */
 
-body, #navbar {
-  background-color: rgb(244,255,244);
+:root {
+  --background-color: #f2fff2;
+}
+
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+   margin-left: -120px;
+}
+
+.navbar-brand h4 {
+  font-size: 26px;
+}
+
+body, #navbar, .panel-heading, .bar.background-white {
+  background-color: var(--background-color);
+}
+
+#footer {
+  background: #082008;
+}
+
+#copyright {
+  background: #041004;
 }
 
 img {
