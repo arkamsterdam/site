@@ -56,11 +56,11 @@ knoflook, prei) is verplicht.
 i) Bomen:
 
 - Alleen vruchtbomen zijn toegestaan, met een maximale hoogte van 2.5 meter.
-- Per 50 m<sup>2</sup> is 1 boom toegestaan. Bomen mogen geen overlast geven wat betreft lichtbeperking
+- Per 50 m{{< sup "2" >}} is 1 boom toegestaan. Bomen mogen geen overlast geven wat betreft lichtbeperking
 en bladafval.
 
 j) Maximaal 15 % van de totale tuinoppervlakte mag worden gebruikt voor een zitterras en
-paden, al dan niet van tegels (bij een tuin van 150 m<sup>2</sup> is dat dus maximaal 22,5 m<sup>2</sup>).
+paden, al dan niet van tegels (bij een tuin van 150 m{{< sup "2" >}} is dat dus maximaal 22,5 m{{< sup "2" >}}).
 
 # Artikel 3. Materialen
 
