@@ -113,7 +113,7 @@ id = ""
     author = "DevCows"
     defaultKeywords = ["devcows", "hugo", "go"]
     mainSections = ["blog"]
-    defaultDescription = "Site template made by Devcows using Hugo"
+    defaultDescription = "biologisch tuinieren in Amsterdam Nieuw-West"
 
     # Social media
 #    facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
