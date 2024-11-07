@@ -110,8 +110,8 @@ id = ""
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devcows", "hugo", "go"]
+    author = "Leo Mekenkamp"
+    defaultKeywords = ['biologische tuingroep De Ark', 'biologisch tuinieren', 'moestuin', 'volkstuin', 'Nieuw-West', 'duurzaam']
     mainSections = ["blog"]
     defaultDescription = "biologisch tuinieren in Amsterdam Nieuw-West"
 
@@ -164,7 +164,7 @@ id = ""
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>We zijn een enthousiaste groep van tuinierders die in Amsterdam Nieuw-West op duurzaam biologische wijze onze eigen groenten en fruit kweken.</p>"
+    about_us = "<p>We zijn een enthousiaste groep van tuinders die in Amsterdam Nieuw-West op duurzaam biologische wijze onze groenten en fruit kweken.</p>"
     copyright = "Copyright (c) 2024, Tuingroep De Ark"
 
     # Format dates with Go's time formatting

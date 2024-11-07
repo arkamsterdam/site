@@ -1,4 +1,6 @@
-# werkdagen 2025
++++
+title = "werkdagen 2024"
++++
 
 - zaterdag 28 september 11:00 - 14:00 
 - zondag 27 oktober 11:00 - 14:00

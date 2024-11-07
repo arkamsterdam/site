@@ -1,3 +1,7 @@
++++
+title = "foto's"
++++
+
 ![verbena en bij](</img/verbena en bij.jpg> "verbena en bij")
 ![fruitoogst](</img/bessen.jpg> "fruitoogst")
 ![goudsbloem](</img/goudsbloem.jpg> "goudsbloem")

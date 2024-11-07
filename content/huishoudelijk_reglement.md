@@ -1,3 +1,8 @@
++++
+keywords = ['biologische tuingroep De Ark', 'Huishoudelijk Reglement', 'omgangsregels']
+title = 'Huishoudelijk Reglement'
++++
+
 ### Huishoudelijk Reglement Biologische Tuingroep De Ark - 2024
 
 De Tuingroep de Ark is een nutstuin voor teelt van groente, fruit, kruiden
