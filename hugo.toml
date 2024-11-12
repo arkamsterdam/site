@@ -203,8 +203,8 @@ id = ""
     search = true
 
 [params.carouselCustomers]
-    items = 6
-    auto_play = false
+    items = 3
+    auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
 
