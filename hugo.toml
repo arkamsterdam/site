@@ -1,7 +1,6 @@
 baseurl = "https://localhost/"
 title = "biologische tuingroep De Ark"
 theme = "hugo-universal-theme"
-style = "green"
 themesDir = "themes"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
