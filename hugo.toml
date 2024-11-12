@@ -55,7 +55,7 @@ id = ""
     name       = "huishoudelijk reglement"
     identifier = "menu.reglement"
     url        = "/huishoudelijk_reglement/"
-    weight     = 40
+    weight     = 60
 
 [[menu.main]]
     name       = "werkdagen"
@@ -67,7 +67,7 @@ id = ""
     name       = "Berichten"
     identifier = "menu.blog"
     url        = "/blog/"
-    weight     = 60
+    weight     = 40
 
 [[menu.main]]
     identifier = "menu.contact"
