@@ -45,13 +45,13 @@ id = ""
 #    parent     = "menu.home"
 
 [[menu.main]]
-    name       = "foto's"
+    name       = "foto's & video's"
     identifier = "menu.fotos"
-    url        = "/fotos/"
+    url        = "/fotos_en_videos/"
     weight     = 30
 
 [[menu.main]]
-    name       = "huishoudelijk reglement"
+    name       = "reglement"
     identifier = "menu.reglement"
     url        = "/huishoudelijk_reglement/"
     weight     = 60

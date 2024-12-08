@@ -1,5 +1,5 @@
 +++
-title = "foto's"
+title = "foto's & video's"
 +++
 
 ![verbena en bij](</img/verbena en bij.jpg> "verbena en bij")
@@ -13,3 +13,5 @@ title = "foto's"
 ![amfibie](</img/amfibie.jpg> "amfibie")
 ![zwarte bes](</img/zwarte bes.jpg> "zwarte bes")
 ![bloemen](</img/bloemen.jpg> "bloemen")
+{{< youtube id="bm3oWI3JTsI" >}}
+{{< youtube id="vZZRkJGhV74" >}}
