@@ -1,7 +1,6 @@
 +++
 title = "foto's & video's"
 +++
-![open dag](</img/amsterdam750jaar.jpg> "open dag amsterdam 750 jaar")
 ![verbena en bij](</img/verbena en bij.jpg> "verbena en bij")
 ![fruitoogst](</img/bessen.jpg> "fruitoogst")
 ![goudsbloem](</img/goudsbloem.jpg> "goudsbloem")
