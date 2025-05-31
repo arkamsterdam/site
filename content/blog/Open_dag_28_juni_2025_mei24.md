@@ -4,7 +4,7 @@ title = "open dag 28 juni 2025"
 date = "2025-05-27T17:13:20+00:00"
 tags = ["lente","volkstuindagen", "open dag", "Amsterdam 750 jaar"]
 categories = ["algemeen"]
-banner = "img/rommelige tuin.jpg"
+banner = "img/Amsterdam 750 jaar.png"
 authors = ["Ruth"]
 +++
 
